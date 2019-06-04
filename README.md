@@ -2,7 +2,8 @@
 
 # Data science fellowship 06/03/19 
 
-My name is Nateé
+My name is Nateé 
+Changed in terminal 
 
 ### Data science calendar
 
