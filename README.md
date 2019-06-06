@@ -1,7 +1,7 @@
 
 
 # Data science fellowship 06/03/19 
-
+hi
 My name is Nateé 
 Changed in terminal 
 
